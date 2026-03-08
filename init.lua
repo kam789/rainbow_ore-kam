@@ -165,14 +165,14 @@ minetest.register_craft({
 
 
 --Define Nyan Rainbow crafting recipe
-minetest.register_craft({
-	output = "default:nyancat_rainbow",
-	recipe = {
-		{"rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot"},
-		{"rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot"},
-		{"rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot"}
-	}
-})
+--minetest.register_craft({
+--	output = "default:nyancat_rainbow",
+--	recipe = {
+--		{"rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot"},
+--		{"rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot"},
+--		{"rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot", "rainbow_ore:rainbow_ore_ingot"}
+--	}
+--})
 
 
 --Make Rainbow Ore spawn
