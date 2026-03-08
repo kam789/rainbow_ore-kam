@@ -24,5 +24,3 @@ Smelt "Rainbow Ore Block" --> "Rainbow Ingots"
 	- crafted like Armor but with "Rainbow Ingots" as material instead.
 - Shield:
 	- crafted like a shield but with "Rainbow Ingots" as material instead.
-
-You can craft Nyancat_rainbow blocks like any other "solid" blocks but with "Rainbow Ingots" as material instead.
